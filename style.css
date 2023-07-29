@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(158, 150, 150, 0.603);
+    background-color: rgb(109, 104, 104);
+    border: 3px solid rgba(0, 0, 0, 0.103);
+    border-radius: 40px;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 2rem;
+    border: 3px solid rgba(10, 8, 8, 0.932);
+}
+.hugo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto; 
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    height: 30%;
+    margin: auto;
+}
+input{
+    display: flex;
+    height: 20%;
+    margin: auto;
+    align-items: center;
+    border-radius: 20px;
+}
+h2,p{
+    align-items: center;
+}
